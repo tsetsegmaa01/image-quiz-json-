@@ -1,13 +1,13 @@
 [
   {
     "question": "What is the name of this country?",
-    "image": "https://raw.githubusercontent.com/tsetsegmaa01/image-quiz-json-/refs/heads/main/flag%20of%20italy.png",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/image-quiz-json-/refs/heads/main/flag%20of%20uk.png",
     "options": ["UK", "USA", "Japan", "Germany"],
     "answer": "UK"
   },
   {
     "question": "What is the name of this country?",
-    "image": "https://raw.githubusercontent.com/tsetsegmaa01/image-quiz-json-/refs/heads/main/flag%20of%20uk.png",
+    "image": "https://raw.githubusercontent.com/tsetsegmaa01/image-quiz-json-/refs/heads/main/flag%20of%20italy.png",
     "options": ["Italy", "South Korea", "Mongolia", "Sweden"],
     "answer": "Italy"
   },
